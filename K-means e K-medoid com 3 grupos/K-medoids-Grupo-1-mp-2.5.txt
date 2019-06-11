@@ -1,6 +1,6 @@
 
-Santos-Ponta da Praia
 Santana
+Santos-Ponta da Praia
 Parque D.Pedro II
 Congonhas
 Ibirapuera
@@ -11,3 +11,4 @@ Guarulhos-Paço
 Itaim Paulista
 S.Bernardo-Centro
 Campinas-V.União
+São Jose do Rio Preto
